@@ -12,7 +12,7 @@ The test cases read login data (usernames, passwords, expected results) from an 
 - [Code Explanation](#Code-Explanation)
 - [Running the Tests](#running-the-tests)
 
-- ## Features
+## Features
 - **Page Object Model (POM)**: The LoginPage class abstracts all interactions with the login page, making it easier to maintain and update tests if the UI changes.
   
 - **Excel Integration**: Reads from and writes test data to an Excel file for easy management and reporting.
